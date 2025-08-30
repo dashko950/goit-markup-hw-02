@@ -13,16 +13,14 @@ body {
 
 /* Utility classes */
 .visually-hidden {
-  position: absolute;
-  width: 1px;
+  border: 0;
+  clip: rect(0 0 0 0);
   height: 1px;
   margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
   overflow: hidden;
+  padding: 0;
+  width: 1px;
+  white-space: nowrap;
 }
 
 .list {
