@@ -148,9 +148,7 @@ main section:nth-child(3) ul li {
   background-color: #ffffff;
 }
 
-main section:nth-child(3) ul li img {
-  display: block;
-}
+
 
 main section:nth-child(3) ul li h3 {
   font-weight: 500;
