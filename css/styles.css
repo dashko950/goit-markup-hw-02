@@ -139,6 +139,8 @@ body {
 .team {
   background-color: #F4F4FD ;
 }
+.team-item {
+  background-color: #FFFFFF;
 
 .team-member {
   text-align: center;
