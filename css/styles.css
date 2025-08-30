@@ -135,12 +135,12 @@ body {
 
 /* Team section */
 
-}
 .team {
-  background-color: #F4F4FD ;
+  background-color: #f4f4fd;
 }
 .team-item {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
+}
 
 .team-member {
   text-align: center;
