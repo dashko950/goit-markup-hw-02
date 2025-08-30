@@ -134,6 +134,9 @@ body {
 }
 
 /* Team section */
+.team section {
+  background-color: #ffffff;
+}
 .team {
   background-color: #ffffff;
 }
